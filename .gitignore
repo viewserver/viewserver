@@ -1,0 +1,30 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#build output files
+target
+war
+dependency-reduced-pom.xml
+*.releaseBackup
+release.properties
+
+#Idea output files
+!.idea
+.idea/*
+!.idea/runConfigurations
+
+#idea
+.idea/encodings.xml
+!.idea/ant.xml
+!.idea/compiler.xml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/libraries
+!.idea/artifacts
+!.idea/copyright
+*.iml
+
+node_modules
+out
+threadDumps

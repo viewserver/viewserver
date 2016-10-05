@@ -1,0 +1,6 @@
+[submodule "viewserver-messages/viewserver-messages-protobuf/src/main/proto"]
+	path = viewserver-messages/viewserver-messages-protobuf/src/main/proto
+	url = https://github.com/viewserver/viewserver-protobuf
+[submodule "viewserver-sql/src/main/proto/core"]
+	path = viewserver-sql/src/main/proto/core
+	url = https://github.com/viewserver/viewserver-protobuf-core
